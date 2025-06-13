@@ -1,4 +1,4 @@
-# Soil-moisture-detector
+# Soil moisture detection system
 A low-cost soil moisture monitoring system built with a PIC18F45K20 microcontroller, using analog sensors and LED indicators to classify soil conditions as dry, moist, or wet.
 
 ## Features
